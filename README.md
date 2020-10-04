@@ -1,6 +1,12 @@
 
 # 初期設定
 
+前提条件
+- ローカル環境にDockerが入っていること
+- VSCodeで開くこと
+- Remote ContainersをVSCodeにインストールすること
+- Remote Containersで環境を開くこと
+
 ```sh
 # AtCoderへのログイン
 acc login
