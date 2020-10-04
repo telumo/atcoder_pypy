@@ -28,6 +28,5 @@
 	},
 	"extensions": [
 		"ms-python.python"
-	],
-	"postCreateCommand": "npm install -g atcoder-cli",
+	]
 }
